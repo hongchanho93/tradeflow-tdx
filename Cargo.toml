@@ -1,0 +1,12 @@
+[package]
+name = "tradeflow-tdx"
+version = "0.1.0"
+description = "Independent Rust client for the TongdaXin (TDX) public market-data protocol"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/hongchanho93/tradeflow-tdx"
+publish = false
+
+[dependencies]
+flate2 = "1.1.10"
